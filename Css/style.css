@@ -29,6 +29,7 @@ li{
 .Logo{
     float: left;
     color: #CC6600;
+    border-radius: 5px;
 }
 
 a{
@@ -39,6 +40,7 @@ a{
 .container{
     max-width: 1000px;
     margin: auto;
+    margin-top: 1vh;
 }
 
 .fs{
@@ -46,6 +48,7 @@ a{
     text-align: center;
     color: #2F4F4F;
     padding: 10px;
+    border-radius: 3px;
 }
 
 .title{
@@ -55,12 +58,12 @@ a{
 section{
     padding: 20px;
     background-image: url('/Assets/Loja_de_roupas.jpg');
+    border-radius: 4px;
     background-size: cover;
     overflow: hidden;
 }
 
 .formContainer{
-    
     padding: 200px;
     float: right;
 }
@@ -81,6 +84,7 @@ select{
 }
 
 footer{
+    border-radius: 5px;
     background-color: #202121;
     padding: 40px;
     text-align: center;
